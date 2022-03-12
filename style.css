@@ -1,0 +1,46 @@
+#image1
+{
+    width: 70%;
+}
+
+span {
+    width: 100%;
+}
+#flowers {
+    height: 30%;
+}
+#flowers2 {
+    height: 90%;
+}
+
+body {
+    text-align: center;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.menu1 {
+    list-style: none;
+    position: fixed;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    z-index: 10;
+}
+
+.links {
+    float: left;
+    color: fuchsia;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+.links:hover {
+    background-color: rgb(239, 212, 255);
+}
